@@ -1,0 +1,15 @@
+introduction screen
+social logins
+splash screen
+
+signup
+login
+home screen with login signup buttons
+
+
+reusable code widget
+statemanagement using getx
+nice and creative design
+
+tip: use hero and other (if needed) animations
+tip: nice clean rich ui with beautiful shadow and relaxed graphics
